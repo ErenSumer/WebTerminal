@@ -1,0 +1,35 @@
+body{
+  font-family: monospace;
+  background-color: #000;
+}
+
+
+#terminal {
+    font-family: monospace;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+  }
+  #input {
+    margin-top: 20px;
+  }
+  #prompt {
+    font-weight: bold;
+  }
+  #cmd {
+    background: transparent;
+    border: none;
+    color: white;
+    width: 768px;
+    outline: none;
+  }
+
+  html, body {
+    margin: 0;
+    left:0;
+    bottom: 0;
+    padding: 0;
+    height: 100%;
+  }
+
+
